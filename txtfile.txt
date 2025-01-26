@@ -1,0 +1,15 @@
+code for testing as a sample json format in AWS
+
+1)For Lambda test
+
+{
+  "body": "{\"features\":[24.0, 56838.0, 6.0, 9000.0, 1.0, 11.49, 0.16, 4.0, 647.0, 1.0]}"
+}
+
+
+
+
+2)For APIgateway test
+{
+  "features": [24.0, 56838.0, 6.0, 9000.0, 1.0, 11.49, 0.16, 4.0, 647.0, 1.0]
+}
